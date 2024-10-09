@@ -1,5 +1,7 @@
 package basico;
 
+import java.util.Scanner;
+
 public class Variavel {
 	
 	public static void main(String []args) {
@@ -19,6 +21,7 @@ public class Variavel {
 		String nome="fulanofulanofulanofulanofulanofulanofulanofulanofulanofulanofulanofulanofulanofulanofulanofulano";
 		System.out.println(nome.length());
 		System.out.println(nome.toUpperCase());
+		
 		
 		 
 	}
