@@ -1,12 +1,12 @@
-package aula09102024;
+package aula16102024;
 
 public class Pessoa {
     public int id;
-    private String nome;
+    protected String nome;
     private String contato;
     private String cpf;
     
-    public Pessoa() {
+   public Pessoa() {
     }
    /* public Pessoa(String nome) {
     	this.nome=nome;
